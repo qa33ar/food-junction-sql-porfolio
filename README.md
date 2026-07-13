@@ -15,6 +15,9 @@ Food Junction wants insights into operations during 2024–2025, including branc
 - orders
 - order_details
 - reviews
+  
+## Database Schema
+![EER Diagram](Images/eer-diagram.png)
 
 ## Skills Demonstrated
 - Database Design (EER)
