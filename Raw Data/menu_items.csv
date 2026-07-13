@@ -1,0 +1,81 @@
+Menu_Item_ID,Item_Name,Category,Selling_Price_PKR,Cost_PKR,Is_Active
+1,Chicken Biryani,Pakistani,850,320,1
+2,Beef Biryani,Pakistani,980,390,1
+3,Chicken Karahi,Pakistani,1650,720,1
+4,Mutton Karahi,Pakistani,2450,1200,1
+5,Chicken Handi,Pakistani,1550,690,1
+6,Nihari,Pakistani,980,430,1
+7,Haleem,Pakistani,750,290,1
+8,Daal Makhni,Pakistani,620,220,1
+9,Chicken Pulao,Pakistani,780,300,1
+10,Chicken Qorma,Pakistani,1450,650,1
+11,Zinger Burger,Burgers,890,360,1
+12,Beef Burger,Burgers,990,410,1
+13,Grilled Chicken Burger,Burgers,920,380,1
+14,Fish Burger,Burgers,950,420,1
+15,Loaded Fries,Burgers,520,180,1
+16,Chicken Tikka Pizza (S),Pizza,950,360,1
+17,Chicken Tikka Pizza (L),Pizza,1890,760,1
+18,Pepperoni Pizza (L),Pizza,2050,860,1
+19,Fajita Pizza (L),Pizza,1950,820,1
+20,Veggie Pizza (L),Pizza,1750,690,1
+21,Chicken Manchurian,Chinese,1450,620,1
+22,Chicken Fried Rice,Chinese,850,310,1
+23,Chow Mein,Chinese,920,340,1
+24,Hot & Sour Soup,Chinese,520,170,1
+25,Kung Pao Chicken,Chinese,1550,690,1
+26,Chicken Tikka,BBQ,760,290,1
+27,Chicken Malai Boti,BBQ,890,350,1
+28,Seekh Kebab,BBQ,820,310,1
+29,Chicken Reshmi Kebab,BBQ,950,390,1
+30,Mutton Chops,BBQ,2100,980,1
+31,Brownie,Desserts,420,130,1
+32,Cheesecake,Desserts,620,220,1
+33,Gulab Jamun,Desserts,280,90,1
+34,Kheer,Desserts,320,110,1
+35,Ice Cream,Desserts,350,120,1
+36,Espresso,Coffee & Beverages,390,90,1
+37,Cappuccino,Coffee & Beverages,520,140,1
+38,Latte,Coffee & Beverages,560,160,1
+39,Cold Coffee,Coffee & Beverages,620,180,1
+40,Tea,Coffee & Beverages,220,60,1
+41,Soft Drink,Coffee & Beverages,180,55,1
+42,Mineral Water,Coffee & Beverages,120,35,1
+43,Chicken Biryani,Pakistani,850,320,1
+44,Beef Biryani,Pakistani,980,390,1
+45,Chicken Karahi,Pakistani,1650,720,1
+46,Mutton Karahi,Pakistani,2450,1200,1
+47,Chicken Handi,Pakistani,1550,690,1
+48,Nihari,Pakistani,980,430,1
+49,Haleem,Pakistani,750,290,1
+50,Daal Makhni,Pakistani,620,220,1
+51,Chicken Pulao,Pakistani,780,300,1
+52,Chicken Qorma,Pakistani,1450,650,1
+53,Zinger Burger,Burgers,890,360,1
+54,Beef Burger,Burgers,990,410,1
+55,Grilled Chicken Burger,Burgers,920,380,1
+56,Fish Burger,Burgers,950,420,1
+57,Loaded Fries,Burgers,520,180,1
+58,Chicken Tikka Pizza (S),Pizza,950,360,1
+59,Chicken Tikka Pizza (L),Pizza,1890,760,1
+60,Pepperoni Pizza (L),Pizza,2050,860,1
+61,Fajita Pizza (L),Pizza,1950,820,1
+62,Veggie Pizza (L),Pizza,1750,690,1
+63,Chicken Manchurian,Chinese,1450,620,1
+64,Chicken Fried Rice,Chinese,850,310,1
+65,Chow Mein,Chinese,920,340,1
+66,Hot & Sour Soup,Chinese,520,170,1
+67,Kung Pao Chicken,Chinese,1550,690,1
+68,Chicken Tikka,BBQ,760,290,1
+69,Chicken Malai Boti,BBQ,890,350,1
+70,Seekh Kebab,BBQ,820,310,1
+71,Chicken Reshmi Kebab,BBQ,950,390,1
+72,Mutton Chops,BBQ,2100,980,1
+73,Brownie,Desserts,420,130,1
+74,Cheesecake,Desserts,620,220,1
+75,Gulab Jamun,Desserts,280,90,1
+76,Kheer,Desserts,320,110,1
+77,Ice Cream,Desserts,350,120,1
+78,Espresso,Coffee & Beverages,390,90,1
+79,Cappuccino,Coffee & Beverages,520,140,1
+80,Latte,Coffee & Beverages,560,160,1
